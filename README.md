@@ -15,8 +15,8 @@ I recommend reading the **second edition** books in this order:
 
 * [Get Started](get-started/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-get-started) | [Buy on Amazon](https://www.amazon.com/dp/B084BNMN7T)
 * [Scope & Closures](scope-closures/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-scope-closures) | [Buy on Amazon](https://www.amazon.com/dp/B08634PZ3N)
-* [Objects & Classes](objects-classes/README.md) (draft in progress)
-* Types & Grammar (not yet started)
+* [Objects & Classes](objects-classes/README.md) (draft stable)
+* [Types & Grammar](types-grammar/README.md) (draft in progress)
 * Sync & Async (not yet started)
 * ES.Next & Beyond (not yet started)
 
@@ -43,16 +43,6 @@ Any contributions you make to this effort **are of course greatly appreciated**.
 But **PLEASE** read the [Contributions Guidelines](CONTRIBUTING.md) carefully before submitting a PR.
 
 ## Thank You To These Wonderful Sponsors
-
-[![Doppler Logo (dark)](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/external-logos/doppler_logo-light.svg)](https://www.doppler.com/?utm_campaign=getify&utm_medium=referral&utm_content=youdontknowjs&utm_source=github#gh-light-mode-only)
-
-[![Doppler Logo(light)](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/external-logos/doppler_logo.svg)](https://www.doppler.com/?utm_campaign=getify&utm_medium=referral&utm_content=youdontknowjs&utm_source=github#gh-dark-mode-only)
-
-<a href="https://www.doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesomeforbeginners&utm_source=github">**All your environment variables, in one place**</a>
-
-Stop struggling with scattered API keys, hacking together home-brewed tools, and avoiding access controls. Keep your team and servers in sync with <a href="https://www.doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesomeforbeginners&utm_source=github">Doppler</a>.
-
-----
 
 [![Frontend Masters Logo (dark)](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/external-logos/fem_logo-light.svg)](https://frontendmasters.com#gh-light-mode-only)
 
