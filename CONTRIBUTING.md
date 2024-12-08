@@ -1,6 +1,6 @@
 # Contributing
 
-Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. If there's any doubt or if you think that a word/phrase is used confusingly, **before submitting a PR, open an issue to ask about it.**
+Please feel free to contribute to the quality of this content (subject to limitations discussed below) by submitting PR's for improvements to code snippets, explanations, etc. If there's any doubt or if you think that a word/phrase is used confusingly, **before submitting a PR, open an issue to ask about it.**
 
 However, if you choose to contribute content (not just typo corrections) to this repo, you agree that you're giving me a non-exclusive license to use that content for the book, as I (and my publisher) deem appropriate. You probably guessed that already, but I just wanted to be extra clear on that.
 
@@ -18,13 +18,11 @@ The intended **best reading experience** are the published books (either ebook o
 
 ## Editions
 
-The current edition (*work in progress*) of the books is the 2nd edition. While these 2nd edition books are in progress, contributions are OK, but **there's no need to jump the gun early** while I'm still working on stuff. That's what "work in progress" means. :)
+The current edition of the books is the 2nd edition.
 
-| NOTE: |
-| :--- |
-| **ALSO**, please note that while a book is in progress, the previous 1st edition text may be included at the bottom of each file, and marked as such. Please ignore this text, as contributions there are not relevant. |
+Books 1 ("Get Started") and 2 ("Scope & Closures") were finished and published (ebook and print) back in early 2020, and **are therefore NOT open to further contribution**. Books 3 ("Objects & Classes") and 4 ("Types & Grammar") are in stable-draft status (maybe ~90-95% done), and *are* open to contributions. Books 5 ("Sync & Async") and 6 ("ES.Next & Beyond") are not currently planned to be worked on.
 
-I **am not accepting any contributions** for 1st edition books.
+I **am not accepting any contributions** for 1st edition books, no exceptions.
 
 ## Typos?
 

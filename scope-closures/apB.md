@@ -119,7 +119,7 @@ The downside here is that LRU is quite non-trivial in its own right. You'll want
 
 ## Closure (PART 2)
 
-In this exercise, we're going to again practive closure by defining a `toggle(..)` utility that gives us a value toggler.
+In this exercise, we're going to again practice closure by defining a `toggle(..)` utility that gives us a value toggler.
 
 You will pass one or more values (as arguments) into `toggle(..)`, and get back a function. That returned function will alternate/rotate between all the passed-in values in order, one at a time, as it's called repeatedly.
 
